@@ -25,8 +25,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program:
 ```
-DONE BY: JAVITH FARKHAN 
-REG NO : 212221240005
+DONE BY: KERSOAN P
+REG NO : 212221230050
 
 ```
 ```
